@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/python-validators/validators/commit/6ffd8625ee4272dade063653bff615014bdc4734",
       "git:hexsha": "6ffd8625ee4272dade063653bff615014bdc4734",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T08:52:49.677918+00:00"
     },
     {
       "@id": "https://repolex.ai/r/python-validators/validators/commit/6778906c251e8f10b51bf589619d50af34f94573",
