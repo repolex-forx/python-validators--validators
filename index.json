@@ -1,0 +1,11 @@
+{
+  "org": "python-validators",
+  "repo": "validators",
+  "versions": [
+    {
+      "commit": "6ffd8625ee4272dade063653bff615014bdc4734",
+      "tag": "",
+      "parsed_at": "2026-10-18T08:52:49.678712+00:00"
+    }
+  ]
+}
